@@ -4,11 +4,8 @@ Created on Sun Sep 29 13:18:53 2019
 """
 from random import randint
 
-dimension = 6
-# dimension = int(input("Ingrese tamaño de tabla hash: "))
-
-# vector = [99, 10, 84, 79, 102, 100, 95, 90, 6, 49]
-vector = [5, 51, 101, 79, 69, 27]
+dimension = int(input("Ingrese tamaño de tabla hash: "))
+vector = []
 
 ###########################################
 ##########CREANDO LISTA ALEATORIA##########
@@ -51,3 +48,9 @@ for x in range(0, dimension):
 print('SIN COLISIONES:')
 for i, numero in enumerate(tabla):
     print(f'HashTable[{i}]: {numero}')
+
+
+
+
+
+
