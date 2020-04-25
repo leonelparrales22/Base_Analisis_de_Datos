@@ -2,3 +2,6 @@
 PycharmProyects/TablaHash/.idea/misc.xml
 PycharmProyects/TablaHash/.idea/TablaHash.iml
 PycharmProyects/TablaHash/.idea/workspace.xml
+*.xml
+*.iml
+*.xml
