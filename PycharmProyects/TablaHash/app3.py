@@ -1,4 +1,4 @@
-dimension = 5
+dimension = 10
 vector = [12, 14, 78, 90, 10]
 
 tabla = [-1] * dimension
